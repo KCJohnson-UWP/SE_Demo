@@ -1,2 +1,1 @@
 This file is useful because it explains what Git branches are. In Git, branches are pointers or references to commits.
-Also, commits can have tags as well.
