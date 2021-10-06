@@ -1,0 +1,1 @@
+Commits can have tags as well.
