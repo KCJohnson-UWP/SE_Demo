@@ -1,2 +1,3 @@
-The HEAD is the currently referenced Git commit. 
-The HEAD should ideally be pointing toward a defined branch at all times, which in turn points at the most recent commit of such a branch.
+The HEAD is the currently referenced Git commit that is currently checked out. 
+The HEAD should in practice be pointing toward a defined branch at all times, which in turn points at the most recent commit of such a branch.
+Otherwise, if a commit is checked out without a branch referencing it, it wil have no idenifying key or label to it besides its long and unwieldy commit ID hash.
