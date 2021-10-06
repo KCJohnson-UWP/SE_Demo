@@ -1,5 +1,0 @@
-This is even more meaningful random text. 
-This is because this file now clearly explains that it is completely useless.
-
-This file is useful now because it explains what Git branches are. In Git, branches are pointers or references to commits.
-Also, commits can have tags as well.
