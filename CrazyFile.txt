@@ -1,1 +1,2 @@
 This file is crazy.
+It now has two lines.
